@@ -6,18 +6,16 @@ Basically, the strategy is to keep doubling your bet on red until you win, at wh
 You can repeat this process for as long as you like, but you have to end on a win.  
 For this program, I chose the arbitrary number of spins as 100.
 
-
-
 In short, the amount of money you'll win is equal to the number of spins you win on multiplied by 5(since $5 is your minimum bet here).
 I understand how it works mathematically now, but running the code in an online visualizer definitely helped me with that realization.
-
-
 
 And of course, there is a risk involved with this strategy.  That risk being losing enough spins in a row to where you run out of money.
 That didn't happen in the code I have so far, but I want to run more simulations with different seeds to see if that might end up being the case for some of them.
 
-I do want to do a lot more with this project in the future so keep your eyes on it if it interests you so far. 
-For now though, I just thought I'd put up what I have in case anybody wants to test it, tweak it, play with it, or whatever.
+So far, I've uploaded the Python file with my code as well as text file that contains a link to 
+a nice website that allows you to step through the code and see how the balance and bet amount changes based on the result of each spin.
+
+Hpwever, I do want to do a lot more with this project in the future so keep your eyes on it if it interests you so far. 
 
 
 
