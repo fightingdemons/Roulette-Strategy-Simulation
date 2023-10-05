@@ -15,7 +15,7 @@ That didn't happen in the code I have so far, but I want to run more simulations
 So far, I've uploaded the Python file with my code as well as text file that contains a link to 
 a nice website that allows you to step through the code and see how the balance and bet amount changes based on the result of each spin.
 
-Hpwever, I do want to do a lot more with this project in the future so keep your eyes on it if it interests you so far. 
+However, I do want to do a lot more with this project in the future so keep your eyes on it if it interests you so far. 
 
 
 
